@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ExileInt
+- 👀 I’m interested in Programming and neural networks
+- 🌱 I’m currently learning multiple programming languages and automatition with programming
